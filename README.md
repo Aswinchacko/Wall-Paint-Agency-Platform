@@ -15,9 +15,6 @@ This module provides an organized and comprehensive listing of wall paint and ha
 # Search and Filter Module: 
 Integrated within the website, this module enables users to search for products using keywords and apply filters based on criteria such as color, type, brand, and price range. This functionality enhances user navigation and helps users quickly find relevant products.
 
-# Visualizer Tool Module: 
-A unique feature of the website, the Visualizer Tool Module allows users to visualize how different paint colors will appear in various settings or rooms. Users can experiment with different color combinations and settings, empowering them to make informed decisions and conceptualize their design ideas effectively.
-
 # Shopping Cart and Checkout Module: 
 This module facilitates the online ordering process by providing users with a virtual shopping cart to store selected products. Users can review their selections, adjust quantities, and securely complete their purchases through an integrated checkout process.
 
